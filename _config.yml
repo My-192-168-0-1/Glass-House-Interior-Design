@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Always Under Construction
+description: Me in the making.
 github_username: My-192-168-0-1
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Glass-House-Interior-Design"
@@ -38,10 +38,10 @@ baseurl: "/Glass-House-Interior-Design" # the subpath of your site, e.g. "/blog"
 
 # Email and twitter are optional:
 email: 
-twitter_username: "fastdotai"
+twitter_username: ""
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
 show_description: true
